@@ -1,0 +1,6 @@
+{
+  "name": "Ludo Royal",
+  "description": "A modern Ludo Star-inspired board game with intelligent AI bots, local multiplayer, smooth animations, and classic rules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
